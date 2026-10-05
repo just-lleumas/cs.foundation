@@ -1,0 +1,18 @@
+Computer is a machine that works on loop, it accept data, processes and manipulate it and gives it out as information for human use, It work on binary which is 0 and 1, which it make use of to store data, carry out calculations, and solve problems. 
+
+A transistor is an electronic switch that control flow of electricity in a computer, Flow of electricity rep 1 and no fllow of it means 0.
+
+
+Truth table
+
+AND table
+Both of the input must be true or else it is false
+
+OR Table
+One of the input must be true or else it is false
+
+XOR
+Exactly one of the input must be true  or else it is false
+
+NOT Table
+Reverse the Input (true too false and false to true)
